@@ -2,7 +2,7 @@
 //  main.c
 //  Calculator
 //
-//  Created by Muhammet Burak Göleç on 8.06.2022.
+//  Created by Muhammet Burak Göleç on 8.03.2021.
 //
 
 #include <stdio.h>
